@@ -1,40 +1,35 @@
-AlertOps Expert Guidance
+Collaboration: A Key to DevOps Success
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+When it comes to DevOps, collaboration is key, and for good reason. In most cases, successful DevOps teams drive collaboration between developers and IT operations staff. Yet collaboration breakdowns continue to plague many DevOps teams around the world.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+DevOps collaboration breakdowns may occur for many reasons, including:
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+    Lack of Alignment Within a DevOps Team: DevOps team members are not working toward a common goal.
+    Poor Communication: Ineffective communication prevents DevOps team members from keeping one another up to date.
+    Information Silos: DevOps team members are reluctant to share critical information with their peers.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Ultimately, DevOps team collaboration can make or break a business. Without a collaborative culture in place, DevOps team members are unlikely to work together to find the best ways to maximize productivity and limit risk.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+For example, if a big-box retailer suffers an IT outage, the time and costs required for a DevOps team to resolve this incident management issue could escalate quickly. The outage could put a major dent in the retailer’s brand reputation and revenues, along with place additional pressure on a DevOps team that already has its hands full. Perhaps worst of all, the outage may cause the retailer’s operations to come to a screeching halt until the incident management problem is resolved.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+There is no need for a DevOps team to let an IT outage or other incident management problems get out of hand. Instead, a DevOps team can use the following tips to foster a culture of collaboration:
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+    Take a top-down approach to culture. A collaborative culture starts at the top and trickles down to all employees in all departments. If a DevOps team leader collaborates with all team members, he or she can set the tone for a collaborative workplace.
+    Promote active discussions. Do you encourage your DevOps team to discuss its concerns and questions? If not, you may be missing out on a golden opportunity to build a collaborative work environment, one where DevOps team members are unafraid to brainstorm ideas and speak up about potential issues.
+    Get rid of hierarchies. Let’s face it – no one likes a boss breathing down their neck. Fortunately, a collaborative DevOps team will eliminate hierarchies and build a distinct culture where equality and teamwork reign supreme.
+    Empower your DevOps team. Don’t let silos get the best of your DevOps team – give your DevOps team the opportunity to make its own decisions. And over time, you’re sure to reap the benefits of a confident, collaborative DevOps team.
+    Implement user-friendly processes and systems. DevOps is complex, and why should a business further complicate DevOps with processes and systems that are difficult to use and limit progress? Collaborate with DevOps team members, find out what they’re looking for in the ideal processes and systems and invest your time and resources accordingly.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Lastly, it is important to remember that a collaborative workplace won’t happen overnight. Much in the same way that Rome wasn’t built in a day, it takes time, hard work and patience to get your entire DevOps team on the same page.
 
-1 Red Canary 2021 Threat Detection Report
+If you need extra help as you search for ways to drive DevOps team collaboration, please don’t hesitate to contact AlertOps for assistance.
+
+At AlertOps, we’re all about helping DevOps teams foster collaboration in any way possible. Our built-in chat integrations with Slack, HipChat and other group chat platforms make it easy for DevOps team members to keep one another up to date about incident management problems. Plus, our multi-modal communication capabilities guarantee incident management notifications can be sent via email, phone and SMS to ensure the right DevOps team member can get the right message, at the right time, every time.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/collaboration-key/
 
 Read more:
 ====
